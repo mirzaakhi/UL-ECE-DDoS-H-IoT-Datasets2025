@@ -1,6 +1,6 @@
 # UL-ECE-DDoS-H-IoT-Datasets2025
 
-This repository hosts two new datasets developed for DDoS detection research in Healthcare IoT (H-IoT) environments:
+This repository hosts two new datasets for DDoS attack detection in Healthcare IoT (H-IoT) environments:
 
 - **UL-ECE-MQTT-DDoS-H-IoT2025** (simulated using Cooja with MQTT traffic)
 - **UL-ECE-UDP-DDoS-H-IoT2025** (simulated using ns-3 with UDP traffic)
