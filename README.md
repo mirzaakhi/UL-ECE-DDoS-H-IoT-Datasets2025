@@ -7,7 +7,7 @@ This repository hosts two new datasets for DDoS attack detection in Healthcare I
 
 Both datasets provide preprocessed CSV files along with their corresponding preprocessing scripts.
 
-## Structure
+## Repository Structure
 
 ```text
 UL-ECE-DDoS-H-IoT-Datasets2025/
